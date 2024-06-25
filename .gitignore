@@ -1,0 +1,79 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lib
+*.a
+
+# Executables
+*.exe
+*.out
+*.app
+
+# CMake build directory
+/build/
+
+# CMake Install directory
+/install/
+
+# Visual Studio Code directory
+.vscode/
+
+# Eclipse project files
+.project
+.cproject
+.settings/
+
+# Xcode project files
+*.xcodeproj/
+*.xcworkspace/
+
+# Clion project files
+.idea/
+
+# Sublime Text project files
+*.sublime-project
+*.sublime-workspace
+
+# Compiled Python files
+*.pyc
+
+# Compiled Java files
+*.class
+
+# Compiled TypeScript files
+*.js
+*.js.map
+
+# Compiled Ruby files
+*.gem
+
+# Compiled PHP files
+*.php
+
+# Compiled Go files
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Compiled Swift files
+*.swiftdoc
+*.swiftmodule
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
