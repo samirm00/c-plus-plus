@@ -77,3 +77,6 @@
 # Miscellaneous
 .DS_Store
 Thumbs.db
+
+# Any file with no extension
+*.
